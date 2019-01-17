@@ -11,7 +11,7 @@ class Selector extends React.Component {
 
     componentDidMount() {
         storage.getSettings((settings) => {
-            fetch('http://localhost:83/regions.json')
+            fetch('https://raw.githubusercontent.com/david-mills/X-Forwarded-For-Location-Selector/master/regions.json')
                 .then(response => {
                     return response.json();
                 }).then(data => {
