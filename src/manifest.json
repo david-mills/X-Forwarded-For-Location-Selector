@@ -1,5 +1,6 @@
 {
   "name": "X-Forwarded-For Location Selector",
+  "description":"Allows you to select a specific region for spoofing an IP address using X-Forwarded-For header",
   "options_page": "options.html",
   "background": {
     "scripts": [

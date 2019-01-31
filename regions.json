@@ -34,5 +34,33 @@
     {
         "name": "US-Illinois",
         "ip": "65.182.182.0" 
+    },
+    {
+        "name": "US-Connecticut",
+        "ip": "32.208.150.219" 
+    },
+    {
+        "name": "US-Rhode Island",
+        "ip": "68.0.234.248" 
+    },
+    {
+        "name": "US-Massachusetts",
+        "ip": "67.186.135.127" 
+    },
+    {
+        "name": "US-Vermont",
+        "ip": "73.69.172.120" 
+    },
+    {
+        "name": "US-New Hampshire",
+        "ip": "24.60.128.106" 
+    },
+    {
+        "name": "US-Maine",
+        "ip": "74.65.185.73" 
+    },
+    {
+        "name": "US-Nevada",
+        "ip": "68.104.51.218" 
     }
 ]
